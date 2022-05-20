@@ -9,7 +9,7 @@ A simple terminal game coded in C that uses n curses to make a little character 
 - use the following command: "gcc grid.c -lncurses -o grid.out" (feel free to add any flags you want)
 - and run the game with this command "./grid.out"
 
-
+![alt text]([http://url/to/img.png](https://imgur.com/a/WQ9C2Jk))
 # How to play:
 w: go up
 a: go left
