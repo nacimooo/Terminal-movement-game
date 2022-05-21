@@ -1,3 +1,10 @@
+# Changelog (Version 1.0.6)
+- Added menu system.
+- Added a "How to Play" tab.
+- Changed background colour.
+- Improved visibility of the play area
+
+
 # Terminal-movement-game
 A simple terminal game coded in C that uses n curses to make a little character move across a screen
 
@@ -22,3 +29,11 @@ q: quit
 
 # About this game:
 the game is really basic as far gameplay goes, you are a character (represented by the "#" symbol) and you have to collect the fruits "@", you score is diplayed at the bottom of the screen and at the end of the game
+
+
+# Future Features and goals:
+- menu system (done)
+- color integratin (kinda done)
+- Ability to change size of play field
+- Add obstacles
+- Improve the looks.
