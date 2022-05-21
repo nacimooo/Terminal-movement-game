@@ -17,7 +17,7 @@ A simple terminal game coded in C that uses n curses to make a little character 
 - and run the game with this command "./grid.out"
 
 
-![]((https://i.imgur.com/JQuFhw7.gif))
+![]([(https://i.imgur.com/JQuFhw7.gif](https://i.imgur.com/JQuFhw7.gif)))
 # How to play:
 w: go up
 a: go left
