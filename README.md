@@ -5,6 +5,7 @@
 - Improved visibility of the play area
 
 ![](https://i.imgur.com/H1sxvWW.jpg)
+![](https://i.imgur.com/gm2vVbS.png)
 
 # Terminal-movement-game
 A simple terminal game coded in C that uses n curses to make a little character move across a screen
